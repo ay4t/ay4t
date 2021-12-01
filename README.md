@@ -1,5 +1,3 @@
-# ay4t
- 
 <h1 align="center">Hi 👋, I'm Ayatulloh Ahad R</h1>
 <h3 align="center">A passionate backend PHP developer from Indonesia</h3>
 
