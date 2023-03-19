@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay4t&label=Profile%20views&color=0e75b6&style=flat" alt="ay4t" /> </p>
 
 - 🔭 I’m currently working on [Indiega Network](https://indiega.net)
-- 🌱 I’m currently learning **Codeigniter 4 Framework, Laravel 8 Framework**
+- 🌱 I’m currently learning **Codeigniter 4 Framework, Laravel 10 Framework**
 - 👯 I’m looking to collaborate on [Indiega Network](https://indiega.net)
-- 👨‍💻 All of my projects are available at [https://indiega.net/portfolio](https://indiega.net/portfolio)
+- 👨‍💻 All of my projects are available at [https://indiega.net/portfolio](https://indiega.net/product)
 - 📫 How to reach me **ayatulloh@indiega.net**
 - 📄 Know about my experiences [https://ayatulloh.indiega.net](https://ayatulloh.indiega.net)
 
