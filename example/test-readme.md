@@ -14,15 +14,15 @@
 <p align="left">
 
 <a href="https://fb.com/aahadr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-facebook.png" alt="aahadr" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-facebook.png" alt="aahadr" height="40" width="40" />
 </a>
 
 <a href="https://www.youtube.com/c/uc5at6prqfm0ucnecn4vtpdw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-youtube.png" alt="uc5at6prqfm0ucnecn4vtpdw" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-youtube.png" alt="uc5at6prqfm0ucnecn4vtpdw" height="40" width="40" />
 </a>
 
 <a href="https://discord.gg/AhjrR4yJUU" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-discord.png" alt="AhjrR4yJUU" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/ay4t/ay4t/main/images/icon-discord.png" alt="AhjrR4yJUU" height="40" width="40" />
 </a>
 
 </p>
