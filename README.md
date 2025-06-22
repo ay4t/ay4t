@@ -41,23 +41,10 @@ A highly experienced PHP Software Engineer with over 10 years of hands-on expert
     *   Implemented plugins and themes, ensuring functionality and high performance.
     *   Provided maintenance and support for developed web applications.
 
-**Education**
-
-*   (You can add your degree details here if you have any)
-
-**Career Objectives**
-
-*   To secure a position in a dynamic international team that leverages my extensive PHP development skills.
-*   To enhance my professional network and contribute to challenging projects that utilize cutting-edge technology.
-*   To improve my English language proficiency through immersion and collaborative work.
-*   To significantly increase earnings potential, reflecting my skill set and experience.
-
 **Additional Information**
 
 *   Passionate about learning new technologies and staying updated with industry best practices.
 *   Eager to contribute to a company that values innovation and continuous improvement.
-*   (Your Portfolio will be presented separately)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
